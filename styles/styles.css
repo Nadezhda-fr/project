@@ -170,7 +170,7 @@ body * {
 
 .completed-projects-container {
     display: flex;
-    padding: 107px 120px 415px;
+    padding: 107px 90px 415px;
   
 }
 
@@ -211,7 +211,7 @@ body * {
 }
 
 .info-item {
-    width: 160px;
+    width: 40%;
 }
 
 .info-item:nth-child(n+3) {
